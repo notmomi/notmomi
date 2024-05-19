@@ -1,6 +1,6 @@
 ### Hey there! I'm @momi! 👋
 
-I'm a beginner developer with a huge passion for learning and exploring the world of programming. Here’s a bit more about me:
+I'm a  developer with a huge passion for learning and exploring the world of programming. Here’s a bit more about me:
 
 - 🔭 I’m currently delving into projects that involve game logic design, exploring front-end development, and mastering socket programming.
 - 🌱 I’m continuously learning and expanding my knowledge in these areas to build robust and efficient software solutions.
