@@ -1,4 +1,4 @@
-### Hey there! I'm @notmomi! 👋
+### Hey there! I'm @momi! 👋
 
 I'm a beginner developer with a huge passion for learning and exploring the world of programming. Here’s a bit more about me:
 
